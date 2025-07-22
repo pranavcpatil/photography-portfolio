@@ -23,7 +23,7 @@ This project was created to demonstrate frontend development skills and build a 
 ✅ Completed and deployed locally. Can be integrated with backend for full-stack use in the future.
 
 ## 📷 Demo
-![home page](image.png)
+![home page](homepage.png)
 
 ## 🔗 GitHub Repository
 [github.com/pranavcpatil/photography-portfolio](https://github.com/pranavcpatil/photography-portfolio)
